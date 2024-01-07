@@ -24,6 +24,12 @@ function App() {
       <section id="experience">
         <h2>Experience</h2>
         <p>I have experience in IOT-based Software Development and a strong knowledge of back-end development.</p>
+            <ul>
+              <li>Participate in the development of a point-of-sale (POS) system for a retail business.(.NET)</li>
+              <li>Collaborated with a team of developers to design and develop a library management system.(JAVA)</li>
+              <li>I worked as a software developer in a small team to create a management system for a private institute.(C#)</li>
+
+            </ul>
       </section>
 
       <section id="education">

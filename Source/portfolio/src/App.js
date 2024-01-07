@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ textAlign: 'left', maxWidth: '800px', margin: '0 auto' }}>
      
       <header>
         <h1>Anojan</h1>

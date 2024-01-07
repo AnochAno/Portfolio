@@ -55,9 +55,7 @@ function App() {
         <p>Currently learning front-end development with React JS.</p>
       </section>
 
-      <footer>
-        <p>Contact me: anothankes876@gmail.com</p>
-      </footer>
+      
     </div>
   );
 }

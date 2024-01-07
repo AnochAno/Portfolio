@@ -50,7 +50,7 @@ function App() {
       </section>
 
       <footer>
-        <p>Contact me: your-email@example.com</p>
+        <p>Contact me: anothankes876@gmail.com</p>
       </footer>
     </div>
   );

@@ -34,7 +34,7 @@ function App() {
 
       <section id="education">
         <h2>Education</h2>
-        <p>Bachelor of Engineering in Industrial Automation and Robotics</p>
+        <p>Bachelor of Engineering Technology in Industrial Automation and Robotics</p>
       </section>
 
       <section id="tools">

@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import { Container } from '@mui/material';
+import Grid from '@mui/material/Grid'; // Grid version 1
+
+
 
 function App() {
   return (
-    <div className="App" style={{ textAlign: 'left', maxWidth: '800px', margin: '0 auto' }}>
-     
+    <div>
+     <Container>
       <header>
         <h1>Anojan</h1>
         <p>B.ET Undergraduate | Industrial Automation and Robotics</p>
@@ -54,8 +58,7 @@ function App() {
         <h2>Learning</h2>
         <p>Currently learning front-end development with React JS.</p>
       </section>
-
-      
+      </Container> 
     </div>
   );
 }

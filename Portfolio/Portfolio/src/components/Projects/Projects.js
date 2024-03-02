@@ -8,6 +8,9 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import pos from "../../Assets/Projects/pos.jpg";
+import ins from "../../Assets/Projects/in.png";
+import mobile from "../../Assets/Projects/mob.png";
 
 function Projects() {
   return (
@@ -57,35 +60,34 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={pos}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="POS Web App"
+              description="Our Point of Sale (POS) system, built with .NET Web Forms for the frontend and .NET with MongoDB for the backend, caters to the needs of small shops. Offering a compact yet efficient solution, our POS system streamlines transactions, inventory management, and sales reporting. With its user-friendly interface and seamless integration with MongoDB, small shop owners can effortlessly manage their business operations, ensuring smooth and efficient service for their customers."
+              ghLink="https://github.com/AnochAno/POS"
+              //demoLink=""
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={ins}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Institute Management System"
+              description="System combines React and Bootstrap for frontend flexibility, while .NET and SQL Server power the backend for robust functionality. This comprehensive system covers all aspects of institute management, offering functions such as student enrollment, course management, scheduling, attendance tracking, and performance analysis. With its intuitive interface and seamless integration, administrators can efficiently oversee institute operations, ensuring smooth workflow and enhanced productivity."
+              ghLink="https://github.com/AnochAno/insitute_Management_Web.git"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={mobile}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Mobile Applications"
+              description="I've developed mobile applications for practice using Java and XML. These applications showcase my proficiency in mobile app development, utilizing Java for backend logic and XML for defining user interfaces. Through these projects, I've gained hands-on experience in building responsive and feature-rich mobile apps, honing my skills in Java programming and XML layout design."
+              ghLink="https://github.com/AnochAno/Mobile-Apps.git"
+              // demoLink="https://blogs.soumya-jit.tech/"      
             />
           </Col>
         </Row>

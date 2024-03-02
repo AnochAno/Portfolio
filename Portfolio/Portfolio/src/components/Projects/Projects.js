@@ -40,7 +40,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Library Managenment System"
+              title="Library Managenment System - Still Develop" 
               description="Our Library Management System, developed with Java JFrame forms and backed by Java and MySQL, provides comprehensive library management solutions. From cataloging and tracking books to managing memberships and issuing loans, our system streamlines all aspects of library operations. With intuitive interfaces and robust backend functionalities, librarians can efficiently manage resources, track circulation, and generate insightful reports for informed decision-making"
               ghLink="https://github.com/AnochAno/Library-System"
               //demoLink=""

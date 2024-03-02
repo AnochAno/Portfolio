@@ -28,7 +28,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="E-Commerce Website"
+              title="E-Commerce Website - Still Develop"
               description="Our ReactJS and Material UI-based eCommerce platform offers a seamless shopping experience. With a diverse product catalog sourced from the Fakestore API, secure payments, and user-friendly order management, customers can enjoy convenient shopping across devices.
               The backend integration with the Fakestore API ensures that the website has access to a diverse catalog of products with realistic descriptions and images. This enhances the authenticity and credibility of the eCommerce platform."
               ghLink="https://github.com/AnochAno/Ecommerce-Web"

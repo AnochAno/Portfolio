@@ -24,24 +24,24 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java(Spring Boot), Javascript, and C#(.NET). </b>
+                <b className="purple"> Java(Spring Boot), Javascript, C#(.NET) and C programming </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products 
+                <b className="purple">Web Technologies, Embedded System , Industrial Automation and Robotics
                 
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Spring Boot, .NET</b> and
+              with <b className="purple">Spring Boot, .NET, C & Python</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Library and Frameworks 
                 </b>
               </i>
               &nbsp; like

@@ -24,6 +24,7 @@ function Home() {
                   I'm
                 <strong className="main-name"> Thankeswaran Anojan</strong>
               </h1>
+              <p style={{marginLeft:80}}> UG | B.ET (hons) | Industrial Automation and Robotics</p>
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />

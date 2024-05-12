@@ -1,11 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/Ano.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiFillInstagram,
-  AiFillMail
+ 
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -19,29 +18,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I'm an <b className="purple">  undergraduate </b> student 
+            in <b className="purple">  Industrial Automation and Robotics </b>   who has fallen in love with 
+            programming and believes I've learned quite a bit. 🤷‍♂️ 
               <br />
-              <br />I am fluent in classics like
+              <br /> I'm fluent in classics like
               <i>
                 <b className="purple"> Java(Spring Boot), Javascript, C#(.NET) and C programming </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of interest include building new &nbsp;
               <i>
-                <b className="purple">Web Technologies, Embedded System , Industrial Automation and Robotics
+                <b className="purple">Industrial Automation and Robotics | Manufacturing Technology | Web & Software technologies | Embedded systems
                 
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Spring Boot, .NET, C & Python</b> and
+              Whenever possible, I apply my passion for developing Arduino projects & Embedded System, as well as products with 
+              <b className="purple"> Spring Boot, .NET, C, and Python,</b> along with
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks 
+                  modern JavaScript libraries and frameworks
                 </b>
               </i>
               &nbsp; like
@@ -52,7 +52,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+            <img src={myImg} className="img-fluid rounded-circle" alt="avatar" style={{height:500, width:500}} />
             </Tilt>
           </Col>
         </Row>

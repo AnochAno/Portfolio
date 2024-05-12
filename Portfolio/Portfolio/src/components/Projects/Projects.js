@@ -26,10 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="E-Commerce Website - Still Develop"
-              description="Our ReactJS and Material UI-based eCommerce platform offers a seamless shopping experience. With a diverse product catalog sourced from the Fakestore API, secure payments, and user-friendly order management, customers can enjoy convenient shopping across devices.
-              The backend integration with the Fakestore API ensures that the website has access to a diverse catalog of products with realistic descriptions and images. This enhances the authenticity and credibility of the eCommerce platform."
-              ghLink="https://github.com/AnochAno/Ecommerce-Web"
-              //demoLink=""
+              description="I independently developed an e-commerce website using React with Vite for rapid development, Tailwind CSS for streamlined styling, and Redux for state management. This project was implemented entirely on the front-end, eliminating the need for a traditional backend. Leveraging React's component-based architecture, Vite's fast build times, Tailwind CSS's utility-first approach, and Redux for efficient state management, I created a responsive and visually appealing e-commerce platform. Despite the absence of a backend, the website effectively showcases products, enables browsing, and facilitates seamless user interaction, demonstrating my proficiency in modern web development technologies and state management with Redux"
+              ghLink="https://github.com/AnochAno/EcommerceWeb.git"
+              demoLink="https://sollectfy-kohzlepoi-anojan-thankeswarans-projects.vercel.app/#"
             />
           </Col>
 

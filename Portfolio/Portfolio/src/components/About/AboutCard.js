@@ -9,12 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Thankeswaran Anojan </span>
-            from <span className="purple"> Sri Lanka.</span>
+            and I hail from <span className="purple"> Sri Lanka.</span>
             <br /><br />
-            I am currently following  Engineering Techlonogy Degree specialized in Industrial Automation and Robotics at University of Kelaniya.
+            I'm currently pursuing a degree in Engineering Technology, specializing in Industrial Automation and Robotics at the University of Kelaniya. Continuing my studies here, I've delved into various subjects including Principles of Engineering, PLC (Programmable Logic Controller), Embedded Systems, C Programming, Java, Manufacturing Technology, Fundamentals of Robotics, and Industrial Automation.
             <br /><br />
-            I have completed Full Satck Web Development in Meta.
-            <br />
+            Moreover, I've augmented my academic journey by completing a comprehensive course in Full Stack Web Development through Coursera's online platform, offered by Meta. This course equipped me with dynamic and modern web development skills, focusing on React & Django development.
             <br />
             
           </p>

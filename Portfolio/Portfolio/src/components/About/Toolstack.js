@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { DiNetbeans } from "react-icons/di";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -8,7 +9,10 @@ import {
   SiVisualstudio,
   SiIntellijidea,
   SiAndroidstudio,
-  SiArduino
+  SiArduino,
+  SiAutodesk,
+  SiRedux,
+  SiXampp
 } from "react-icons/si";
 
 function Toolstack() {
@@ -25,10 +29,19 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAndroidstudio />
+        <SiArduino />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiArduino />
+        <SiXampp />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAutodesk />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNetbeans />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAndroidstudio/>
       </Col>
     </Row>
   );

@@ -6,7 +6,10 @@ import {
   DiGit,
   DiJava,
   DiGoogleCloudPlatform,
+  DiPython,
+  DiMaterializecss,
 } from "react-icons/di";
+import { FaRobot } from "react-icons/fa";
 import {
  
   SiFirebase,
@@ -19,6 +22,11 @@ import {
   SiBootstrap,
   SiC,
   SiAutodesk,
+  SiSolid,
+  SiMaterialdesign,
+  SiVite,
+  SiTailwindcss,
+  SiRedux,
  
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
@@ -35,7 +43,7 @@ function Techstack() {
        
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <SiTailwindcss/>
        
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -49,28 +57,28 @@ function Techstack() {
         <SiDotnet />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftsqlserver />
+        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiBootstrap />
+        <SiAutodesk />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiC />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiMaterialdesign />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <SiRedux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiGit/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAutodesk />
+        <SiVite />
       </Col>
     </Row>
   );

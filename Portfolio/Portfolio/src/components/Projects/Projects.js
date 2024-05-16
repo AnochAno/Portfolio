@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="E-Commerce Website - Still Develop"
               description="I independently developed an e-commerce website using React with Vite for rapid development, Tailwind CSS for streamlined styling, and Redux for state management. This project was implemented entirely on the front-end, eliminating the need for a traditional backend. Leveraging React's component-based architecture, Vite's fast build times, Tailwind CSS's utility-first approach, and Redux for efficient state management, I created a responsive and visually appealing e-commerce platform. Despite the absence of a backend, the website effectively showcases products, enables browsing, and facilitates seamless user interaction, demonstrating my proficiency in modern web development technologies and state management with Redux"
-              ghLink="https://github.com/AnochAno/EcommerceWeb.git"
+              //ghLink="#"
               demoLink="https://sollectfy.netlify.app/"
             />
           </Col>

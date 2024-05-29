@@ -24,8 +24,8 @@ function Home() {
                   I'm
                 <strong className="main-name"> Thankeswaran Anojan</strong>
               </h1>
-              <p style={{marginLeft:80}}> Undergraduate  | B.ET (hons) | Industrial Automation and Robotics</p><hr/>
-              <p style={{marginLeft:80}}>   Department of Applied Computing,<br/>
+              <p style={{marginLeft:80}}> Undergraduate  | B.ET (hons) | Industrial Automation and Robotics</p>
+              <p style={{marginLeft:90, marginTop:0}}>   Department of Applied Computing,<br/>
        Faculty of Computing and Technology,<br/>
        University of Kelaniya, Sri Lanka.</p><hr/>
               <p style={{marginLeft:80,color:'white'}}>

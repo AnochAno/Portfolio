@@ -26,7 +26,7 @@ function Home() {
               </h1>
               <p style={{marginLeft:80}}> UG | B.ET (hons) | Industrial Automation and Robotics</p><hr/>
               <p style={{marginLeft:80,color:'white'}}>
-                  <b>Open to work</b> : Industrial Engineering Intern || Embedded System Engineer || Robotic Process Automation Engineer || Mean Stack Developor || Fresher
+                  <b>Open to work</b> : Industrial Automation Engineering Intern || Embedded System Engineer || Robotic Process Automation Engineer || Mean & Full Stack Engineer/Developer || Manufacturing Engineer
               </p>
 
               <div style={{ padding: 50, textAlign: "left" }}>

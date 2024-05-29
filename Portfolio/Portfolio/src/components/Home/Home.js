@@ -24,7 +24,10 @@ function Home() {
                   I'm
                 <strong className="main-name"> Thankeswaran Anojan</strong>
               </h1>
-              <p style={{marginLeft:80}}> UG | B.ET (hons) | Industrial Automation and Robotics</p><hr/>
+              <p style={{marginLeft:80}}> Undergraduate  | B.ET (hons) | Industrial Automation and Robotics</p><hr/>
+              <p style={{marginLeft:80}}>   Department of Applied Computing,<br/>
+       Faculty of Computing and Technology,<br/>
+       University of Kelaniya, Sri Lanka.</p><hr/>
               <p style={{marginLeft:80,color:'white'}}>
                   <b>Open to work</b> : Industrial Automation Engineering Intern || Embedded System Engineer || Robotic Process Automation Engineer || Mean & Full Stack Engineer/Developer || Manufacturing Engineer
               </p>

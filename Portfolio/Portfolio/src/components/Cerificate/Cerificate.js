@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCertificate } from "@fortawesome/free-solid-svg-icons"; 
+import {faCertificate} from "@fortawesome/free-solid-svg-icons"; 
 
 
 import img1 from "./Img/iot.jpg";

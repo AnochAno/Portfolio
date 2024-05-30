@@ -9,6 +9,7 @@ import img3 from "./Img/python.jpeg";
 import img4 from "./Img/js.jpeg";
 import img5 from "./Img/git.jpeg";
 import img6 from "./Img/be.jpeg";
+import img7 from "./Img/fe.jpeg";
 
 
 const details = [
@@ -55,6 +56,13 @@ const details = [
     dis: "Using Django provides a comprehensive introduction to server-side programming. Delve into building dynamic web applications with Django, a robust Python framework. Gain proficiency in API development, architectural principles, and other foundational concepts",
     img: img6,
     link: 'https://coursera.org/share/6434436135fd630481f663ce82cb5a4b'
+  },
+  {
+    id: 7,
+    title: "Completion Certificate for Introduction to Front-End Development",
+    dis: "It covers HTML, teaching the basics of structuring web content; CSS, focusing on styling and layout techniques for web pages; Bootstrap, demonstrating how to utilize this popular CSS framework to create responsive designs quickly; and basic React, introducing the essentials of building dynamic user interfaces with this JavaScript library",
+    img: img7,
+    link: 'https://coursera.org/share/268a2ea5d38604af7d72b6ebc1ec00ff'
   }
 ];
 

@@ -7,7 +7,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import pos from "../../Assets/Projects/pos.jpg";
 import ins from "../../Assets/Projects/in.png";
-import mobile from "../../Assets/Projects/mob.png";
+import mobile from "../../Assets/Projects/mcb.png";
 
 function Projects() {
   return (
@@ -36,9 +36,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Library Managenment System" 
-              description="Our Library Management System, developed with Java JFrame forms and backed by Java and MySQL, provides comprehensive library management solutions. From cataloging and tracking books to managing memberships and issuing loans, our system streamlines all aspects of library operations. With intuitive interfaces and robust backend functionalities, librarians can efficiently manage resources, track circulation, and generate insightful reports for informed decision-making"
-              ghLink="https://github.com/AnochAno/Library-System"
+              title="IOT Base Inventory Managenment System" 
+              description="Our group project at university involved developing an IoT-based inventory management system for smart canteens. The application was built using Java for both the backend and the frontend, with the frontend developed using Java JFrame forms. SQL was used for database management. We integrated RFID technology for application authentication and login processes, ensuring secure and efficient access control. This system enhances inventory tracking and management in smart canteens, allowing students and staff to order products. By leveraging IoT capabilities, the system provides real-time data and streamlined operations to improve efficiency and reduce waste."
+              ghLink="https://github.com/AnochAno/FCT-SM-Canteen-UniversityGroupProject-.git"
               //demoLink=""
             />
           </Col>
@@ -80,9 +80,9 @@ function Projects() {
             <ProjectCard
               imgPath={mobile}
               isBlog={false}
-              title="Mobile Applications"
-              description="I've developed mobile applications for practice using Java and XML. These applications showcase my proficiency in mobile app development, utilizing Java for backend logic and XML for defining user interfaces. Through these projects, I've gained hands-on experience in building responsive and feature-rich mobile apps, honing my skills in Java programming and XML layout design."
-              ghLink="https://github.com/AnochAno/Mobile-Apps.git"
+              title="Thunder-Activated MCB Automation with Arduino"
+              description="I participated in developing a university project involving Arduino, where we automated a Miniature Circuit Breaker (MCB) based on thunder and lightning activity. This project was part of our embedded systems subject. Using Arduino, we designed a system that detects thunder and lightning through sensors and automatically triggers the MCB to prevent electrical damage. This automation enhances safety by providing real-time response to natural electrical disturbances, demonstrating the practical application of embedded systems in improving electrical safety infrastructure."
+             //ghLink="#"
               // demoLink="https://blogs.soumya-jit.tech/"      
             />
           </Col>

@@ -68,7 +68,7 @@ export default function Certificate() {
             <Col key={data.id} sm={6} className="mb-3 mb-sm-0 g-4">
               <div className="project-card-view">
                 <div className="card-body">
-                  <h5 className="card-title" style={{padding: 10, backgroundColor: 'purple', color: 'white'}}>{data.title}</h5>
+                  <h5 className="card-title" style={{padding: 10, backgroundColor: 'purple', color: 'white'}} role="button" >{data.title}</h5>
                   <div style={{ height: '100%', overflow: 'hidden', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                     <img
                       src={data.img}
@@ -79,11 +79,11 @@ export default function Certificate() {
                   <p className="card-text" style={{ textAlign: 'start' }}>
                     {data.dis}
                   </p>
-                  <Button href={data.link} target="_blank" as="a" style={{color:'white'}}>
-                  <FontAwesomeIcon icon={faCertificate} style={{ marginRight: '8px' }} />
-                  Show credential
-                  </Button>
+                  <div>
+                  
+                  </div>
                 </div>
+                
               </div>
             </Col>
           ))}

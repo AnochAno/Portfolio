@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Thankeswaran Anojan </span>
             and I hail from <span className="purple"> Sri Lanka.</span>
             <br /><br />
-            I'm currently pursuing a degree in Engineering Technology, specializing in Industrial Automation and Robotics at the University of Kelaniya. Continuing my studies here, I've delved into various subjects including Principles of Engineering, PLC (Programmable Logic Controller), Embedded Systems, C Programming, Java, Manufacturing Technology, Fundamentals of Robotics, and Industrial Automation.
+            I'm currently pursuing a degree in Engineering Technology, specializing in Industrial Automation and Robotics at the University of Kelaniya. Continuing my studies here, I've delved into various subjects including Principles of Engineering, PLC (Programmable Logic Controller), Embedded Systems, C Programming, Java, Manufacturing Technology, Fundamentals of Robotics, Industrial Automation, Electronics, Physics, Applied Mathematics, Sensor Technology and Control Systems.
             <br /><br />
             Moreover, I've augmented my academic journey by completing a comprehensive course in Full Stack Web Development through Coursera's online platform, offered by Meta. This course equipped me with dynamic and modern web development skills, focusing on React & Django development.
             <br />
